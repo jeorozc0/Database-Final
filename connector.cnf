@@ -1,0 +1,5 @@
+[client]
+host     = localhost
+user     = **your username**
+password = **your password**
+database = TRAFFICMONITORING
